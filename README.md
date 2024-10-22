@@ -1,4 +1,9 @@
-Tools Used: Microsoft Excel-For data cleaning, analysis, and visualization.
+# X Store Data Analysis using Excel
+
+## Tools Used:
+Microsoft Excel-For data cleaning, analysis, and visualization.
+
+## Description
 
 -Cleaned raw sales data by removing duplicates, handling missing values, and normalizing data for consistency.
 
@@ -13,3 +18,5 @@ Tools Used: Microsoft Excel-For data cleaning, analysis, and visualization.
 -Delivered clear and actionable insights through visualizations such as line charts, area charts, and data bars.
 
 -This project enhanced my proficiency in Excel, especially in advanced functions, data analysis, and visualization, enabling me to deliver clear business insights through data.
+
+## Dashboard
