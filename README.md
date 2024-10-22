@@ -20,3 +20,5 @@ Microsoft Excel-For data cleaning, analysis, and visualization.
 -This project enhanced my proficiency in Excel, especially in advanced functions, data analysis, and visualization, enabling me to deliver clear business insights through data.
 
 ## Dashboard
+
+![Screenshot 2024-10-07 131625](https://github.com/user-attachments/assets/4bd4c4b6-e68f-4427-beb5-9afa5cd2795b)
